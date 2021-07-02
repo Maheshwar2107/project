@@ -20,12 +20,12 @@ project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2
     <artifactId>servlet-api</artifactId>
     <version>2.5</version>
 </dependency>
-<distributionManagement>
+ <distributionManagement>
   <repository>
     <id>releases</id>
     <url>http://3.231.168.191:8081/nexus/content/repositories/releases</url>
   </repository>
-</distributionManagement>
+ </distributionManagement>
 </dependencies>
 
 </project>
